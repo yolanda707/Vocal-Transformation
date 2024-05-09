@@ -1,4 +1,4 @@
-# vocal-transformation
+# Vocal-Transformation
 # SoftVC VITS Singing Voice Conversion
 
 
