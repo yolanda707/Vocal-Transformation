@@ -1,0 +1,2 @@
+./dataset/44k/syz/2_dyt_syz_(Vocals)_2_2.wav
+./dataset/44k/syz/1_an_syz_(Vocals)_3_18.wav

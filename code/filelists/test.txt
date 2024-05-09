@@ -1,0 +1,2 @@
+./dataset/44k/syz/11_yt_syz_(Vocals)_4_15.wav
+./dataset/44k/syz/8_wbng_syz_(Vocals)_15_7.wav
